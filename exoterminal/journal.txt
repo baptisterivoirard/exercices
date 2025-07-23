@@ -1,0 +1,2 @@
+Jour 1 : j'aprrend bash
+Jour 2 : j'aprrend les pipes

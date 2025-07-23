@@ -1,0 +1,7 @@
+chien
+chat
+souris
+lapin
+cheval
+chat
+dragon
